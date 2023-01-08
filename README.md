@@ -2,7 +2,7 @@
 
 portfolio personnel qui represente les competences , connaissances et experiences .
 
-![Logo](src/assests/logo_perso1.svg)
+![Logo](./src/assests/logo_perso1.svg)
 
 # Sommaire
 
@@ -91,4 +91,4 @@ Les technologies utilisé :
 ##### 2. Font Awsome (pour les icones)
 
 # Screenshot
-![image](src/assests/capturePartfolio.png)
+![image](./src/assests/capturePartfolio.png)
