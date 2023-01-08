@@ -1,0 +1,8 @@
+
+.slides div{
+    align-items: center;
+    justify-content: center;
+}
+.slides div img{
+    width: 100%;
+}
